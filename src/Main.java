@@ -13,7 +13,7 @@ public class Main {
         boolean g = true;
         boolean w = false;
 
-        n = 37;
+
 
         if(n < 20){
             System.out.println("1");
